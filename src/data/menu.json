@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Couscous Royal",
+    "description": "Semoule fine aux légumes, agneau, poulet et merguez",
+    "price": 1200,
+    "category": "Plats Traditionnels",
+    "image": "/images/couscous.jpg",
+    "popular": true
+  },
+  {
+    "id": "2",
+    "name": "Chakhchoukha Biskria",
+    "description": "Pâtes traditionnelles à la sauce tomate et viande",
+    "price": 1100,
+    "category": "Plats Traditionnels",
+    "image": "/images/chakhchoukha.jpg",
+    "popular": true
+  },
+  {
+    "id": "3",
+    "name": "Carpaccio de Boeuf",
+    "description": "Fines tranches de bœuf, roquette, parmesan, huile d'olive",
+    "price": 950,
+    "category": "Entrées",
+    "image": "/images/carpaccio.jpg",
+    "popular": false
+  },
+  {
+    "id": "4",
+    "name": "Salade César",
+    "description": "Poulet grillé, croûtons, parmesan, sauce César maison",
+    "price": 750,
+    "category": "Entrées",
+    "image": "/images/salad.jpg",
+    "popular": false
+  },
+  {
+    "id": "5",
+    "name": "Filet de Boeuf",
+    "description": "Filet grillé, sauce au poivre, purée maison",
+    "price": 1800,
+    "category": "Plats Principaux",
+    "image": "/images/filet.jpg",
+    "popular": true
+  },
+  {
+    "id": "6",
+    "name": "Riz aux Fruits de Mer",
+    "description": "Riz crémeux aux crevettes, calamars et moules",
+    "price": 1400,
+    "category": "Plats Principaux",
+    "image": "/images/riz-mer.jpg",
+    "popular": false
+  },
+  {
+    "id": "7",
+    "name": "Pizza Margherita",
+    "description": "Tomate, mozzarella di bufala, basilic frais",
+    "price": 800,
+    "category": "Pizzas",
+    "image": "/images/pizza.jpg",
+    "popular": false
+  },
+  {
+    "id": "8",
+    "name": "Tiramisu Maison",
+    "description": "Mascarpone, café, cacao, biscuits à la cuillère",
+    "price": 550,
+    "category": "Desserts",
+    "image": "/images/tiramisu.jpg",
+    "popular": true
+  },
+  {
+    "id": "9",
+    "name": "Crème Brûlée",
+    "description": "Vanille de Madagascar, caramel croustillant",
+    "price": 500,
+    "category": "Desserts",
+    "image": "/images/creme-brulee.jpg",
+    "popular": false
+  },
+  {
+    "id": "10",
+    "name": "Thé à la Menthe",
+    "description": "Thé vert, menthe fraîche, pignons de pin",
+    "price": 250,
+    "category": "Boissons",
+    "image": "/images/the-menthe.jpg",
+    "popular": false
+  },
+  {
+    "id": "11",
+    "name": "Jus d'Orange Frais",
+    "description": "Oranges pressées à la commande",
+    "price": 350,
+    "category": "Boissons",
+    "image": "/images/jus-orange.jpg",
+    "popular": false
+  },
+  {
+    "id": "12",
+    "name": "Café Algérois",
+    "description": "Café fort aux épices, servi dans un dallah",
+    "price": 200,
+    "category": "Boissons",
+    "image": "/images/cafe.jpg",
+    "popular": true
+  }
+]
